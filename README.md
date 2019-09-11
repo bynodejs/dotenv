@@ -3,7 +3,7 @@
 Index
 -----
 
-* <a href="https://github.com/bynodejs/dotenv/blob/master/server.js">.env</a>
+* <a href="https://github.com/bynodejs/dotenv/blob/master/.env">.env</a>
 
 * <a href="https://github.com/bynodejs/dotenv/blob/master/config.js">config</a>
 
