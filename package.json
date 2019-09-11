@@ -11,5 +11,14 @@
   },
   "dependencies": {
     "dotenv": "^8.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bynodejs/dotenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bynodejs/dotenv/issues"
+  },
+  "homepage": "https://github.com/bynodejs/dotenv#readme"
 }
